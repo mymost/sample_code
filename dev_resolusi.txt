@@ -2,4 +2,4 @@ dev resolusi
 - belajar buat git
 - merge request
 - latihan pull
-- latihan branch
+- latihan branch 1
