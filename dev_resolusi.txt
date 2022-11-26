@@ -1,0 +1,3 @@
+dev resolusi
+- belajar buat git
+- merge request
