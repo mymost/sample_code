@@ -3,3 +3,4 @@ dev resolusi
 - merge request
 - latihan pull
 - latihan branch 1
+- latihan fork
